@@ -3,7 +3,7 @@
 //
 // document.write(familia[1]);
 
-var familia = [];
-
-familia[0] = 'Alejandro';
-familia[1] = 'Maria';
+// var familia = [];
+//
+// familia[0] = 'Alejandro';
+// familia[1] = 'Maria';
